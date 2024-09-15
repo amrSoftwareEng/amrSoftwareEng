@@ -8,10 +8,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=hamzamamdouh298&margin-w=15&column=5&theme=algolia&title=-Followers,-Reviews,-Experience" alt="Trophy" />
 </p>
 <p align="center">
- <h3 align="center"><a width="40%" href="https://hamzamamdouh298.github.io/my-website/" >👨‍💻 my personal website </a><a width="40%" href="https://mail.google.com/mail/?view=cm&fs=1&to=hamzamamdouh298@gmail.com&su=Your%20Subject%20Here&body=Your%20message%20goes%20here"> 📫 My email</a></h3> 
+ <h3 align="center"><a width="40%" href="https://hamzamamdouh298.github.io/my-website/" >👨‍💻 my personal website </a><a width="40%" href="https://mail.google.com/mail/?view=cm&fs=1&to=hamzamamdouh298@gmail.com&su=Your%20Subject%20Here&body=Your%20message%20goes%20here" style="color: #450015;"> 📫 My email</a></h3> 
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" style="color: #450015;">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/s-a-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s-a-m" height="30" width="40" /></a>
 <a href="https://fb.com/hamza-bn-osman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hamza-bn-osman" height="30" width="40" /></a>
@@ -21,7 +21,7 @@
 <a href="https://discord.gg/samyu_hamza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="samyu_hamza" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left" style="color: #450015;">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
@@ -76,10 +76,10 @@
   </a> 
 </p>
 
-| ![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamzamamdouh298&theme=github_dark&border_color=450015) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzamamdouh298&theme=github_dark&title_color=450015&text_color=9f9f9f&bg_color=0d1117&border_color=450015&card_width=300&hide_progress=true&langs_count=10) |
+| ![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamzamamdouh298&theme=github_dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzamamdouh298&theme=github_dark&title_color=450015&text_color=450015&bg_color=0d1117&border_color=450015&card_width=300&hide_progress=true&langs_count=10) |
 |-|-|
 
-| ![](https://github-readme-stats.vercel.app/api?username=hamzamamdouh298&show_icons=true&locale=en&theme=github_dark&title_color=450015&text_color=9f9f9f&icon_color=450015&bg_color=0d1117&border_color=450015) | ![](https://github-readme-streak-stats.herokuapp.com/?user=hamzamamdouh298&theme=github_dark&ring=450015&fire=450015&currStreakLabel=450015&sideLabels=450015&dates=9f9f9f&background=0d1117&border=450015) |
+| ![](https://github-readme-stats.vercel.app/api?username=hamzamamdouh298&show_icons=true&locale=en&theme=github_dark&title_color=450015&text_color=450015&icon_color=450015&bg_color=0d1117&border_color=450015) | ![](https://github-readme-streak-stats.herokuapp.com/?user=hamzamamdouh298&theme=github_dark&ring=450015&fire=450015&currStreakLabel=450015&sideLabels=450015&dates=450015&background=0d1117&border=450015) |
 |-|-|
 
 <p align="center">
