@@ -1,9 +1,3 @@
-<h1 align="center">Hi 👋, I'm Hamza Mamdouh</h1>
-<h3 align="center">AASTMT Software Engineer Student and Frontend Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzamamdouh298&label=Profile%20views&color=0e75b6&style=flat" alt="hamzamamdouh298" /> </p>
-
-- 📫 How to reach me **hamzamamdouh298@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
